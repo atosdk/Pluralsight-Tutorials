@@ -1,0 +1,42 @@
+{
+  "summary": {
+    "outcome": "Passed",
+    "testsRan": 1,
+    "passing": 1,
+    "failing": 0,
+    "skipped": 0,
+    "passRate": "100%",
+    "failRate": "0%",
+    "skipRate": "0%",
+    "testStartTime": "Wed Feb 16 2022 10:19:01",
+    "testExecutionTimeInMs": 721,
+    "testTotalTimeInMs": 721,
+    "commandTimeInMs": 103,
+    "hostname": "https://atos-57d-dev-ed.my.salesforce.com",
+    "orgId": "00D4H000001K8d9UAC",
+    "username": "david.dev@atossf.com",
+    "testRunId": "7074H0000BdOOTo",
+    "userId": "0054H000006AHXSQA4"
+  },
+  "tests": [
+    {
+      "id": "07M4H000008GEJcUAO",
+      "queueItemId": "7094H000000sqsQQAQ",
+      "stackTrace": null,
+      "message": null,
+      "asyncApexJobId": "7074H0000BdOOToQQO",
+      "methodName": "createAccount",
+      "outcome": "Pass",
+      "apexLogId": "07L4H00000RJ5UKUA1",
+      "apexClass": {
+        "id": "01p4H000009eEt0QAE",
+        "name": "InternCaseTest",
+        "namespacePrefix": null,
+        "fullName": "InternCaseTest"
+      },
+      "runTime": 721,
+      "testTimestamp": "2022-02-16T10:19:01.000+0000",
+      "fullName": "InternCaseTest.createAccount"
+    }
+  ]
+}
